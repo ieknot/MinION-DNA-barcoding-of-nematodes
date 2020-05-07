@@ -10,10 +10,10 @@ The data of this study were generated in two separate MinION runs. Therefore, th
 **MinION**
 
 The **fastq** files of this study can be found at the ENA, project number [PRJEB37489](https://www.ebi.ac.uk/ena/browser/view/PRJEB37489). 
-* 191211_MinION: samples [ERS4397495](https://www.ebi.ac.uk/ena/browser/view/ERS4397495), [ERS4397496](https://www.ebi.ac.uk/ena/browser/view/ERS4397496) and [ERS4397497](https://www.ebi.ac.uk/ena/browser/view/ERS4397497)
-* 190715_MinION: sample [ERS4397498](https://www.ebi.ac.uk/ena/browser/view/ERS4397498)
+* 191211_MinION: samples [ERS4397495](https://www.ebi.ac.uk/ena/browser/view/ERS4397495)/[ERX4031716](https://www.ebi.ac.uk/ena/browser/view/ERX4031716), [ERS4397496](https://www.ebi.ac.uk/ena/browser/view/ERS4397496)/[ERX4031715](https://www.ebi.ac.uk/ena/browser/view/ERX4031715) and [ERS4397497](https://www.ebi.ac.uk/ena/browser/view/ERS4397497)/[ERX4031717](https://www.ebi.ac.uk/ena/browser/view/ERX4031717)
+* 190715_MinION: sample [ERS4397498](https://www.ebi.ac.uk/ena/browser/view/ERS4397498)/[ERX4031718](https://www.ebi.ac.uk/ena/browser/view/ERX4031718)
 
-The **raw fast5 and sequencing summary** files are necessary for the ONTrack pipeline. They can be found on and downloaded from this SURFdrive:
+The **raw fast5 and sequencing summary** files are necessary for the [ONTrack](https://github.com/MaestSi/ONTrack) pipeline. They can be found on and downloaded from this SURFdrive:
 * 191211_MinION: https://surfdrive.surf.nl/files/index.php/s/VllkkyErCjUo900
 * 190715_MinION: https://surfdrive.surf.nl/files/index.php/s/LiAKPcUPpAldbNM
 

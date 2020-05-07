@@ -1,6 +1,6 @@
 # DNA barcoding of nematodes using the MinION
 
-This page holds the code for replicating the data analyses in Knot I.E., Zouganelis G., Weedall G., Wich S. & Rae R. DNA barcoding of nematodes using the MinION. [Publication info and doi]. It also contains the links to the needed data, which can be downloaded from the European Nucleotide Archive (ENA) and SURFdrive.
+This page holds the code for replicating the data analyses in Knot I.E., Zouganelis G., Weedall G., Wich S. & Rae R. (2020) DNA Barcoding of Nematodes Using the MinION. Front. Ecol. Evol. 8:100. [doi: 10.3389/fevo.2020.00100](https://www.frontiersin.org/articles/10.3389/fevo.2020.00100/full). It also contains the links to the needed data, which can be downloaded from the European Nucleotide Archive (ENA) and SURFdrive.
 
 ## Data
 The data of this study were generated in two separate MinION runs. Therefore, the bioinformatics and data is labelled and separated per run date.

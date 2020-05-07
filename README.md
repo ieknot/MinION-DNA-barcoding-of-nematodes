@@ -30,6 +30,6 @@ The code needed to replicate the bioinformatics is separated by ‘Pre-pipeline 
 
 
 ## Citation
-If this analysis is useful for your work, please consider citing our [manuscript](https://www.frontiersin.org/articles/10.3389/fevo.2020.00100/full).
+If this analysis or information is useful for your work, please consider citing our [manuscript](https://www.frontiersin.org/articles/10.3389/fevo.2020.00100/full).
 
 Knot I.E., Zouganelis G.D., Weedall G.D., Wich S.A. & Rae R. (2020) DNA Barcoding of Nematodes Using the MinION. Front. Ecol. Evol. 8:100. [doi: 10.3389/fevo.2020.00100](https://www.frontiersin.org/articles/10.3389/fevo.2020.00100/full).

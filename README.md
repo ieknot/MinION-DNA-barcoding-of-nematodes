@@ -24,7 +24,7 @@ Sanger **fasta** consensus sequences are available at GenBank:
 * 190715_MinION: accession number [MT246666](https://www.ncbi.nlm.nih.gov/nuccore/MT246666)
 
 ## Code
-The code needed to replicate the bioinformatics is separated by ‘Pre-pipeline raw data preparation’ part, up to the fastq files found in the European Nucleotide Archive (see above), and the ‘Post-demultiplexing data analysis’ part, from which you can run the analyses without having to redo the basecalling and demultiplexing. For more information and details about the bioinformatics analyses, including version numbers of the tools used, see our [manuscript]().
+The code needed to replicate the bioinformatics is separated by ‘Pre-pipeline raw data preparation’ part, up to the fastq files found in the European Nucleotide Archive (see above), and the ‘Post-demultiplexing data analysis’ part, from which you can run the analyses without having to redo the basecalling and demultiplexing. For more information and details about the bioinformatics analyses, including version numbers of the tools used, see our [manuscript](https://www.frontiersin.org/articles/10.3389/fevo.2020.00100/full). Software packages used are [Guppy](https://community.nanoporetech.com/downloads) (ONT Community acces required), [Nanoplot](https://github.com/wdecoster/NanoPlot), [Porechop](https://github.com/rrwick/Porechop) and the bioinformatics pipeline [ONTrack](https://github.com/MaestSi/ONTrack).
 * bioinformatics_191211_MinION.sh: contains all the code needed to replicate the bioinformatics performed for the 191211_MinION run
 * bioinformatics_190715_MinION.sh: contains all the code needed to replicate the bioinformatics performed for the 190715_MinION run
 
